@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NirmalAKV
-- 👀 I’m interested in App Developer
-- 🌱 I’m currently learning in Java Programming 
+- 👀 I’m MERN Stack Developer
+- 🌱 I’m working on seaboss Fish mart
 
 <!---
 NirmalAKV/NirmalAKV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
